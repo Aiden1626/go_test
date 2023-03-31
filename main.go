@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go_test/pkg/dump"
+	"github.com/Aiden1626/go_test/pkg/dump"
 )
 
 func main() {
